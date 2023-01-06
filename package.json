@@ -9,7 +9,7 @@
     "postbuild": "vuepress-sitemap -H https://expeditions.shoppre.com -d public"
   },
   "devDependencies": {
-    "vuepress": "^1.2.0",
+    "vuepress": "^1.9.7",
     "vuepress-plugin-social-share": "^0.1.2",
     "vuepress-plugin-sitemap": "^2.3.1",
     "chalk": "^3.0.0",
